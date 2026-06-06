@@ -1,5 +1,3 @@
-Sim, está em Markdown, mas o jeito que apresentei quebrou a formatação. Copie tudo abaixo de uma vez:
-
 ```
 # Simulador Copa do Mundo 2026 🏆
 
