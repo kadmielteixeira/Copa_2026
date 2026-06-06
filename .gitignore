@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos gerados pelo simulador (outputs — não versionados)
+graficos_calibrado/
+graficos/
+historico_calibrado.csv
+relatorio_calibrado_2026.pdf
+ranking_5000_simulacoes.pdf
+calibracao_resultado.png
+
+# Bandeiras (baixadas automaticamente em runtime)
+flags/
+
+# GIF gerado
+gif_campeao.gif
+
+# Claude
+.claude/
+
+# Scripts auxiliares / versões antigas
+simulador.py
+simulador_calibrado.py
+gerar_gifs.py
+simples.py
+calc_norm.py
+valores_normalizados.txt
+relatorio_copa_2026*.pdf
+ranking_100_simulacoes*.pdf
+ranking_5000_simulacoes_v1.pdf
+historico_simulacoes.csv
+
+# Windows
+Thumbs.db
+desktop.ini
